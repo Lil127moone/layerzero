@@ -1,5 +1,5 @@
 {
-  "name": "layerzero",
+  "name": "layerzero12341",
   "version": "1.0.1",
   "description": "layerzerosc",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Lil127moone/layerzero.git"
   },
   "keywords": [
     "",
